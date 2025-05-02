@@ -6,9 +6,9 @@ A main page with links to three recipe pages
 
 Basic HTML elements used:
 
-<ul> and <ol> for unordered and ordered lists
+`<ul>` and `<ol>` for unordered and ordered lists
 
-<a href> for navigation
+`<a href>` for navigation
 
 Common HTML attributes associated with these tags
 
